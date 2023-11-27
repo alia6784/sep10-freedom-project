@@ -1,8 +1,5 @@
-# Entry 2
-##### X/X/XX
+10/27/23
 
-Text
 
-[Previous](entry01.md) | [Next](entry03.md)
-
-[Home](../README.md)
+## content
+For my content in blog 1 i was talking stating to talk about
