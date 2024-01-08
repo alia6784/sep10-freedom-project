@@ -19,7 +19,12 @@ After all, if our bodies aren’t well then we more than likely won’t be up fo
 
 I was just searching up software and hardware for photographers and videographers and just gathering information since blog 1.
 
+## Sources
+
 Links:https://samdamico.com/hardware-software-photography/
     https://www.cs.hmc.edu/~fleck/computer-vision-handbook/camera-hardware.html
+    https://www.adobe.com/products/photoshop-lightroom.html#:~:text=Lightroom%20is%20the%20cloud%2Dbased,your%20photos%20across%20any%20device.
+https://www.agitraining.com/adobe/photoshop/classes/what-is-photoshop
+https://www.captureone.com/en
 
-
+## EDP
