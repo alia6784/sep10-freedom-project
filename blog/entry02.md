@@ -28,3 +28,5 @@ https://www.agitraining.com/adobe/photoshop/classes/what-is-photoshop
 https://www.captureone.com/en
 
 ## EDP
+I am step 1 of the EDP which is to define the problem. I think the problem is that some people dont know how to edit when it is there first time.When I reach step 2 i am going to talk about how Ai can help you understand how to edit for the first time. Like if you dont know how to use the app, it will give you a tutorial. The tutorial will tell you what the app has to offer like what is can do like how to fully use it.
+
