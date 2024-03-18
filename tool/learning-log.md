@@ -12,7 +12,7 @@ A-Frame aims for highly immersive and interactive VR content with native-like pe
 
 At the same time, A-Frame wants everyone to be able to get involved with VR content creation. A-Frame supports all major headsets with their controllers. Fortunately with the large community and contributors, A-Frame is able to both look far towards the future as well as satisfy the needs of today’s VR landscape.
 
-# What is WebXR?
+## What is WebXR?
 WebXR is a JavaScript API for creating immersive 3D, virtual reality (and augmented reality) experiences in your browser. Or simply put, allows VR in the browser over the Web.
 
 A-Frame uses the WebXR API to gain access to VR headset sensor data (position, orientation) to transform the camera and to render content directly to VR headsets. Note that WebXR, which provides data, should not be confused nor conflated with WebGL, which provides graphics and rendering.
