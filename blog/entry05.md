@@ -1,7 +1,7 @@
 # Entry 5
-##### X/X/XX
+##### 05/08/2024
 
-Text
+In this lesson I have learned about 
 
 [Previous](entry04.md) | [Next](entry06.md)
 
