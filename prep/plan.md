@@ -1,14 +1,14 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](https://wireframe.cc/nRna2r)
+* [Desktop](https://wireframe.cc/zvW67c)
 
 ## Colors
-* `#ABC123`
+* black and white
 
 ## Fonts
-* [Text](URL)
+* [Sedan](https://fonts.google.com/specimen/Sedan)
 
 ## Timeline
 
