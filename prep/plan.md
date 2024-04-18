@@ -28,4 +28,4 @@
 
 * make better 3d modlels
 
-make it work with vr and can try it
+* make it work with vr and can try it
