@@ -23,5 +23,5 @@ In this lesson I have learned about my tool which is A-frame , A-frame is a very
 
 # skils
 
-
+Some skills that I have learned doing this project is being able to create a website from scratch and knowing how webiste works 
 
