@@ -21,7 +21,7 @@ In this lesson I have learned about my tool which is A-frame , A-frame is a very
 </html>
 
 
-# skils
+## skils
 
-Some skills that I have learned doing this project is being able to create a website from scratch and knowing how webiste works 
+Some skills that I have learned doing this project is being able to create a website from scratch and knowing how webiste works and how bootstraps and templates can help me make websites when i dont want to start from the beginning like how we are doing righit now for our websites we can save time be using templates.
 
