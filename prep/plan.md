@@ -29,3 +29,11 @@
 * make better 3d modlels
 
 * make it work with vr and can try it
+
+#### ranking
+
+add A-frame
+4/19 start/finsh my formatting
+4/21 do all my final touches
+5/1 cheack everything and make sure i am done
+4/18 Make a navbar and starts adding images
