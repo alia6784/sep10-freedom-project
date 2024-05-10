@@ -10824,3 +10824,20 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+
+body{
+  /* background-image: url('https://img.freepik.com/premium-photo/abstract-city-background-top-view-old-camera_982005-2334.jpg?w=1060') */
+}
+
+body {
+  /* background-image: url('https://img.freepik.com/premium-photo/abstract-city-background-top-view-old-camera_982005-2334.jpg?w=1060') */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+  /* position: absolute; */
+  top: 100px;
+  left: 50px;
+}
