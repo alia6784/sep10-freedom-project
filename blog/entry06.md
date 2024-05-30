@@ -16,6 +16,6 @@ during this project I learned a lot about photography when i was researching for
 5/1 cheack everything and make sure i am done
 
 ## takeaways
-some takeaways that I had was the code, I did not remember a lot of the code so i had to use w3schools and bootstrap to help me.I learend a interesting code that looks like cards and you can use images in it which made my website look more organized.
+some takeaways that I had was the code, I did not remember a lot of the code so i had to use w3schools and bootstrap to help me.I learend a interesting code that looks like cards and you can use images in it which made my website look more organized.The A frame was hard for me so i could not get it to work and it was braking everything so i just did not use it.
 
 
