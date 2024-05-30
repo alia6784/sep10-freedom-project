@@ -3,7 +3,7 @@
 
 ## context and MVP
 
-during this project I learned a lot about photography when i was researching for my prohect and it helped make it.When i was making my MVP I had to start with finding a templete and making sure it was basic enough to fit my wireframes.Then i had to make sure that the navbar was the one I wanted and that would work with wireframes that i have.The timeline shown below is what i used to make this project and how i manged my time.
+The reason i made this project about photography is because I always loved photography growing up and loved taking photos so i put two and two togther and said let me make my project about photography. during this project I learned a lot about photography when i was researching for my prohect and it helped make it.When i was making my MVP I had to start with finding a templete and making sure it was basic enough to fit my wireframes.Then i had to make sure that the navbar was the one I wanted and that would work with wireframes that i have.The timeline shown below is what i used to make this project and how i manged my time.
 
 4/18 Make a navbar and starts adding images
 
