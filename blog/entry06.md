@@ -18,4 +18,6 @@ during this project I learned a lot about photography when i was researching for
 ## takeaways
 some takeaways that I had was the code, I did not remember a lot of the code so i had to use w3schools and bootstrap to help me.I learend a interesting code that looks like cards and you can use images in it which made my website look more organized.The A frame was hard for me so i could not get it to work and it was braking everything so i just did not use it.
 
+## Sources
+some Sources I used to find information on was [https://getbootstrap.com/] and https://www.w3schools.com/ and https://aframe.io/ and ofcourse https://www.youtube.com/ to teach me how to use everthing.
 
