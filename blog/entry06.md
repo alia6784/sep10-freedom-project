@@ -23,4 +23,5 @@ some Sources I used to find information on was https://getbootstrap.com/ and htt
 
 Screenshots, Code snippets of me tinkering with my work
 
+![image]![Screenshot 2024-05-21 120213](https://github.com/alia6784/sep10-freedom-project/assets/138389031/69ea1821-94f7-4123-b176-eb8072b8684d)
 
