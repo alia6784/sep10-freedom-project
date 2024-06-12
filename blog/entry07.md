@@ -1,7 +1,9 @@
 # Entry 7
-##### X/X/XX
+ 6/10/24
 
-Text
+#### Takeaways from the expo elevator pitch
+
+Some takeaways I got from the Expo elevator pitch was that I did not talk a lot and 
 
 [Previous](entry06.md) | [Next](entry08.md)
 
